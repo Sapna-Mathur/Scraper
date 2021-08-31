@@ -1,4 +1,4 @@
-# blogs-scraper
+# Blogs Scraper
 
 This is a Python project which scraps blogs from a blogging website and save them in the files.
 
